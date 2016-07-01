@@ -1,0 +1,10 @@
+f:\visual studio 2013\Projects\Adfly\bin\Debug\Adfly.exe.config
+f:\visual studio 2013\Projects\Adfly\bin\Debug\Adfly.exe
+f:\visual studio 2013\Projects\Adfly\bin\Debug\Adfly.pdb
+f:\visual studio 2013\Projects\Adfly\bin\Debug\Adfly.xml
+f:\visual studio 2013\Projects\Adfly\obj\Debug\Adfly.Form1.resources
+f:\visual studio 2013\Projects\Adfly\obj\Debug\Adfly.Resources.resources
+f:\visual studio 2013\Projects\Adfly\obj\Debug\Adfly.vbproj.GenerateResource.Cache
+f:\visual studio 2013\Projects\Adfly\obj\Debug\Adfly.exe
+f:\visual studio 2013\Projects\Adfly\obj\Debug\Adfly.xml
+f:\visual studio 2013\Projects\Adfly\obj\Debug\Adfly.pdb
